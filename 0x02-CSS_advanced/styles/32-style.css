@@ -446,7 +446,7 @@ html {
 }
 
 body {
-  background-color: var(--text-color);
+  background-color: var(--color-white);
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
@@ -502,6 +502,7 @@ a:active {
   display: var(--button-display);
   padding: var(--button-padding);
   border: var(--button-border);
+  background-color: var(--color-white);
   font-size: var(--button-font-size);
   color: var(--button-color);
   text-decoration: var(--button-text-decoration);
